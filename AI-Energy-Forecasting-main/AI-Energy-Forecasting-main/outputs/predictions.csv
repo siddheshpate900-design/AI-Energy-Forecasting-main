@@ -1,0 +1,6 @@
+hour,day_of_week,month,is_weekend,Actual_Energy,Predicted_Energy
+8,0,1,0,250,225.8
+16,0,1,0,400,396.2
+0,0,1,0,120,112.65
+18,0,1,0,450,438.7
+11,0,1,0,340,328.3
